@@ -1,4 +1,4 @@
-ls=[89,10,76,25,100,70]
+ls=[89,10,76,25,100,75]
 is_swap=True
 count=0
 for i in range(len(ls)):
