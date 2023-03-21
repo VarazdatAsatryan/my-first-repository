@@ -24,7 +24,7 @@ def binary_search(arr, low, high, x):
 		return -1
 
 # Test array
-arr = range(1,500)
+arr = range(1,550)
 x = 10
 
 # Function call
